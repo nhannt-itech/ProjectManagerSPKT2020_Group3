@@ -1,0 +1,295 @@
+C:\Users\MayXauGiaCao\Desktop\NNA\NNA\bin\Debug\NNA.exe.config
+C:\Users\MayXauGiaCao\Desktop\NNA\NNA\bin\Debug\NNA.exe
+C:\Users\MayXauGiaCao\Desktop\NNA\NNA\bin\Debug\NNA.pdb
+C:\Users\MayXauGiaCao\Desktop\NNA\NNA\obj\Debug\NNA.csprojAssemblyReference.cache
+C:\Users\MayXauGiaCao\Desktop\NNA\NNA\obj\Debug\NNA.Form1.resources
+C:\Users\MayXauGiaCao\Desktop\NNA\NNA\obj\Debug\NNA.Properties.Resources.resources
+C:\Users\MayXauGiaCao\Desktop\NNA\NNA\obj\Debug\NNA.csproj.GenerateResource.cache
+C:\Users\MayXauGiaCao\Desktop\NNA\NNA\obj\Debug\NNA.csproj.CoreCompileInputs.cache
+C:\Users\MayXauGiaCao\Desktop\NNA\NNA\obj\Debug\NNA.exe
+C:\Users\MayXauGiaCao\Desktop\NNA\NNA\obj\Debug\NNA.pdb
+C:\Users\MayXauGiaCao\Desktop\NNA\NNA\obj\Debug\NNA.Form2.resources
+C:\Users\MayXauGiaCao\Desktop\NNA\NNA\obj\Debug\NNA.View.MainGUI.resources
+C:\Users\MayXauGiaCao\Desktop\Nguyễn Thanh Nhân\NNA\bin\Debug\NNA.exe.config
+C:\Users\MayXauGiaCao\Desktop\Nguyễn Thanh Nhân\NNA\bin\Debug\NNA.exe
+C:\Users\MayXauGiaCao\Desktop\Nguyễn Thanh Nhân\NNA\bin\Debug\NNA.pdb
+C:\Users\MayXauGiaCao\Desktop\Nguyễn Thanh Nhân\NNA\obj\Debug\NNA.csprojAssemblyReference.cache
+C:\Users\MayXauGiaCao\Desktop\Nguyễn Thanh Nhân\NNA\obj\Debug\NNA.View.MainGUI.resources
+C:\Users\MayXauGiaCao\Desktop\Nguyễn Thanh Nhân\NNA\obj\Debug\NNA.Properties.Resources.resources
+C:\Users\MayXauGiaCao\Desktop\Nguyễn Thanh Nhân\NNA\obj\Debug\NNA.csproj.GenerateResource.cache
+C:\Users\MayXauGiaCao\Desktop\Nguyễn Thanh Nhân\NNA\obj\Debug\NNA.csproj.CoreCompileInputs.cache
+C:\Users\MayXauGiaCao\Desktop\Nguyễn Thanh Nhân\NNA\obj\Debug\NNA.exe
+C:\Users\MayXauGiaCao\Desktop\Nguyễn Thanh Nhân\NNA\obj\Debug\NNA.pdb
+C:\Users\MayXauGiaCao\Desktop\Nguyễn Thanh Nhân\NNA\obj\Debug\NNA.StudentDetail.resources
+C:\Users\MayXauGiaCao\Desktop\Nguyễn Thanh Nhân\NNA\obj\Debug\NNA.StudentAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\Nguyễn Thanh Nhân\NNA\obj\Debug\NNA.View.TeacherAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\Nguyễn Thanh Nhân\NNA\obj\Debug\NNA.TeacherDetail.resources
+C:\Users\MayXauGiaCao\Desktop\Nguyễn Thanh Nhân\NNA\obj\Debug\NNA.View.ProjectAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\Nguyễn Thanh Nhân\NNA\obj\Debug\NNA.View.ProjectDetail.resources
+C:\Users\MayXauGiaCao\Desktop\Update10h14_3105\NNA\bin\Debug\NNA.exe.config
+C:\Users\MayXauGiaCao\Desktop\Update10h14_3105\NNA\bin\Debug\NNA.exe
+C:\Users\MayXauGiaCao\Desktop\Update10h14_3105\NNA\bin\Debug\NNA.pdb
+C:\Users\MayXauGiaCao\Desktop\Update10h14_3105\NNA\obj\Debug\NNA.csprojAssemblyReference.cache
+C:\Users\MayXauGiaCao\Desktop\Update10h14_3105\NNA\obj\Debug\NNA.View.MainGUI.resources
+C:\Users\MayXauGiaCao\Desktop\Update10h14_3105\NNA\obj\Debug\NNA.Properties.Resources.resources
+C:\Users\MayXauGiaCao\Desktop\Update10h14_3105\NNA\obj\Debug\NNA.View.ProjectAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\Update10h14_3105\NNA\obj\Debug\NNA.View.ProjectDetail.resources
+C:\Users\MayXauGiaCao\Desktop\Update10h14_3105\NNA\obj\Debug\NNA.StudentAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\Update10h14_3105\NNA\obj\Debug\NNA.StudentDetail.resources
+C:\Users\MayXauGiaCao\Desktop\Update10h14_3105\NNA\obj\Debug\NNA.View.TeacherAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\Update10h14_3105\NNA\obj\Debug\NNA.TeacherDetail.resources
+C:\Users\MayXauGiaCao\Desktop\Update10h14_3105\NNA\obj\Debug\NNA.csproj.GenerateResource.cache
+C:\Users\MayXauGiaCao\Desktop\Update10h14_3105\NNA\obj\Debug\NNA.csproj.CoreCompileInputs.cache
+C:\Users\MayXauGiaCao\Desktop\Update10h14_3105\NNA\obj\Debug\NNA.exe
+C:\Users\MayXauGiaCao\Desktop\Update10h14_3105\NNA\obj\Debug\NNA.pdb
+C:\Users\MayXauGiaCao\Desktop\Today01062020\NNA\bin\Debug\NNA.exe.config
+C:\Users\MayXauGiaCao\Desktop\Today01062020\NNA\bin\Debug\NNA.exe
+C:\Users\MayXauGiaCao\Desktop\Today01062020\NNA\bin\Debug\NNA.pdb
+C:\Users\MayXauGiaCao\Desktop\Today01062020\NNA\obj\Debug\NNA.csprojAssemblyReference.cache
+C:\Users\MayXauGiaCao\Desktop\Today01062020\NNA\obj\Debug\NNA.View.MainGUI.resources
+C:\Users\MayXauGiaCao\Desktop\Today01062020\NNA\obj\Debug\NNA.Properties.Resources.resources
+C:\Users\MayXauGiaCao\Desktop\Today01062020\NNA\obj\Debug\NNA.View.ProjectAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\Today01062020\NNA\obj\Debug\NNA.View.ProjectDetail.resources
+C:\Users\MayXauGiaCao\Desktop\Today01062020\NNA\obj\Debug\NNA.StudentAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\Today01062020\NNA\obj\Debug\NNA.StudentDetail.resources
+C:\Users\MayXauGiaCao\Desktop\Today01062020\NNA\obj\Debug\NNA.View.TeacherAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\Today01062020\NNA\obj\Debug\NNA.TeacherDetail.resources
+C:\Users\MayXauGiaCao\Desktop\Today01062020\NNA\obj\Debug\NNA.csproj.GenerateResource.cache
+C:\Users\MayXauGiaCao\Desktop\Today01062020\NNA\obj\Debug\NNA.csproj.CoreCompileInputs.cache
+C:\Users\MayXauGiaCao\Desktop\Today01062020\NNA\obj\Debug\NNA.exe
+C:\Users\MayXauGiaCao\Desktop\Today01062020\NNA\obj\Debug\NNA.pdb
+C:\Users\luong\OneDrive\Máy tính\Today01062020\NNA\bin\Debug\NNA.exe.config
+C:\Users\luong\OneDrive\Máy tính\Today01062020\NNA\bin\Debug\NNA.exe
+C:\Users\luong\OneDrive\Máy tính\Today01062020\NNA\bin\Debug\NNA.pdb
+C:\Users\luong\OneDrive\Máy tính\Today01062020\NNA\obj\Debug\NNA.csprojAssemblyReference.cache
+C:\Users\luong\OneDrive\Máy tính\Today01062020\NNA\obj\Debug\NNA.View.MainGUI.resources
+C:\Users\luong\OneDrive\Máy tính\Today01062020\NNA\obj\Debug\NNA.Properties.Resources.resources
+C:\Users\luong\OneDrive\Máy tính\Today01062020\NNA\obj\Debug\NNA.View.ProjectAddUpdate.resources
+C:\Users\luong\OneDrive\Máy tính\Today01062020\NNA\obj\Debug\NNA.View.ProjectDetail.resources
+C:\Users\luong\OneDrive\Máy tính\Today01062020\NNA\obj\Debug\NNA.StudentAddUpdate.resources
+C:\Users\luong\OneDrive\Máy tính\Today01062020\NNA\obj\Debug\NNA.StudentDetail.resources
+C:\Users\luong\OneDrive\Máy tính\Today01062020\NNA\obj\Debug\NNA.View.TeacherAddUpdate.resources
+C:\Users\luong\OneDrive\Máy tính\Today01062020\NNA\obj\Debug\NNA.TeacherDetail.resources
+C:\Users\luong\OneDrive\Máy tính\Today01062020\NNA\obj\Debug\NNA.csproj.GenerateResource.cache
+C:\Users\luong\OneDrive\Máy tính\Today01062020\NNA\obj\Debug\NNA.csproj.CoreCompileInputs.cache
+C:\Users\luong\OneDrive\Máy tính\Today01062020\NNA\obj\Debug\NNA.exe
+C:\Users\luong\OneDrive\Máy tính\Today01062020\NNA\obj\Debug\NNA.pdb
+C:\Users\MayXauGiaCao\Documents\Zalo Received Files\Today01062020\NNA\bin\Debug\NNA.exe.config
+C:\Users\MayXauGiaCao\Documents\Zalo Received Files\Today01062020\NNA\bin\Debug\NNA.exe
+C:\Users\MayXauGiaCao\Documents\Zalo Received Files\Today01062020\NNA\bin\Debug\NNA.pdb
+C:\Users\MayXauGiaCao\Documents\Zalo Received Files\Today01062020\NNA\obj\Debug\NNA.csprojAssemblyReference.cache
+C:\Users\MayXauGiaCao\Documents\Zalo Received Files\Today01062020\NNA\obj\Debug\NNA.View.MainGUI.resources
+C:\Users\MayXauGiaCao\Documents\Zalo Received Files\Today01062020\NNA\obj\Debug\NNA.Properties.Resources.resources
+C:\Users\MayXauGiaCao\Documents\Zalo Received Files\Today01062020\NNA\obj\Debug\NNA.View.ProjectAddUpdate.resources
+C:\Users\MayXauGiaCao\Documents\Zalo Received Files\Today01062020\NNA\obj\Debug\NNA.View.ProjectDetail.resources
+C:\Users\MayXauGiaCao\Documents\Zalo Received Files\Today01062020\NNA\obj\Debug\NNA.StudentAddUpdate.resources
+C:\Users\MayXauGiaCao\Documents\Zalo Received Files\Today01062020\NNA\obj\Debug\NNA.StudentDetail.resources
+C:\Users\MayXauGiaCao\Documents\Zalo Received Files\Today01062020\NNA\obj\Debug\NNA.View.TeacherAddUpdate.resources
+C:\Users\MayXauGiaCao\Documents\Zalo Received Files\Today01062020\NNA\obj\Debug\NNA.TeacherDetail.resources
+C:\Users\MayXauGiaCao\Documents\Zalo Received Files\Today01062020\NNA\obj\Debug\NNA.csproj.GenerateResource.cache
+C:\Users\MayXauGiaCao\Documents\Zalo Received Files\Today01062020\NNA\obj\Debug\NNA.csproj.CoreCompileInputs.cache
+C:\Users\MayXauGiaCao\Documents\Zalo Received Files\Today01062020\NNA\obj\Debug\NNA.exe
+C:\Users\MayXauGiaCao\Documents\Zalo Received Files\Today01062020\NNA\obj\Debug\NNA.pdb
+C:\Users\MayXauGiaCao\Desktop\OFFICIAL\NNA\bin\Debug\NNA.exe.config
+C:\Users\MayXauGiaCao\Desktop\OFFICIAL\NNA\bin\Debug\NNA.exe
+C:\Users\MayXauGiaCao\Desktop\OFFICIAL\NNA\bin\Debug\NNA.pdb
+C:\Users\MayXauGiaCao\Desktop\OFFICIAL\NNA\obj\Debug\NNA.csprojAssemblyReference.cache
+C:\Users\MayXauGiaCao\Desktop\OFFICIAL\NNA\obj\Debug\NNA.View.MainGUI.resources
+C:\Users\MayXauGiaCao\Desktop\OFFICIAL\NNA\obj\Debug\NNA.Properties.Resources.resources
+C:\Users\MayXauGiaCao\Desktop\OFFICIAL\NNA\obj\Debug\NNA.View.ProjectAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\OFFICIAL\NNA\obj\Debug\NNA.View.ProjectDetail.resources
+C:\Users\MayXauGiaCao\Desktop\OFFICIAL\NNA\obj\Debug\NNA.StudentAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\OFFICIAL\NNA\obj\Debug\NNA.StudentDetail.resources
+C:\Users\MayXauGiaCao\Desktop\OFFICIAL\NNA\obj\Debug\NNA.View.TeacherAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\OFFICIAL\NNA\obj\Debug\NNA.TeacherDetail.resources
+C:\Users\MayXauGiaCao\Desktop\OFFICIAL\NNA\obj\Debug\NNA.csproj.GenerateResource.cache
+C:\Users\MayXauGiaCao\Desktop\OFFICIAL\NNA\obj\Debug\NNA.csproj.CoreCompileInputs.cache
+C:\Users\MayXauGiaCao\Desktop\OFFICIAL\NNA\obj\Debug\NNA.exe
+C:\Users\MayXauGiaCao\Desktop\OFFICIAL\NNA\obj\Debug\NNA.pdb
+C:\Users\MayXauGiaCao\Desktop\OFFICIAL\NNA\obj\Debug\NNA.View.ProgressView.resources
+C:\Users\luong\OneDrive\Máy tính\OFFICIAL\NNA\bin\Debug\NNA.exe.config
+C:\Users\luong\OneDrive\Máy tính\OFFICIAL\NNA\bin\Debug\NNA.exe
+C:\Users\luong\OneDrive\Máy tính\OFFICIAL\NNA\bin\Debug\NNA.pdb
+C:\Users\luong\OneDrive\Máy tính\OFFICIAL\NNA\obj\Debug\NNA.csprojAssemblyReference.cache
+C:\Users\luong\OneDrive\Máy tính\OFFICIAL\NNA\obj\Debug\NNA.View.MainGUI.resources
+C:\Users\luong\OneDrive\Máy tính\OFFICIAL\NNA\obj\Debug\NNA.Properties.Resources.resources
+C:\Users\luong\OneDrive\Máy tính\OFFICIAL\NNA\obj\Debug\NNA.View.ProgressView.resources
+C:\Users\luong\OneDrive\Máy tính\OFFICIAL\NNA\obj\Debug\NNA.View.ProjectAddUpdate.resources
+C:\Users\luong\OneDrive\Máy tính\OFFICIAL\NNA\obj\Debug\NNA.View.ProjectDetail.resources
+C:\Users\luong\OneDrive\Máy tính\OFFICIAL\NNA\obj\Debug\NNA.StudentAddUpdate.resources
+C:\Users\luong\OneDrive\Máy tính\OFFICIAL\NNA\obj\Debug\NNA.StudentDetail.resources
+C:\Users\luong\OneDrive\Máy tính\OFFICIAL\NNA\obj\Debug\NNA.View.TeacherAddUpdate.resources
+C:\Users\luong\OneDrive\Máy tính\OFFICIAL\NNA\obj\Debug\NNA.TeacherDetail.resources
+C:\Users\luong\OneDrive\Máy tính\OFFICIAL\NNA\obj\Debug\NNA.csproj.GenerateResource.cache
+C:\Users\luong\OneDrive\Máy tính\OFFICIAL\NNA\obj\Debug\NNA.csproj.CoreCompileInputs.cache
+C:\Users\luong\OneDrive\Máy tính\OFFICIAL\NNA\obj\Debug\NNA.exe
+C:\Users\luong\OneDrive\Máy tính\OFFICIAL\NNA\obj\Debug\NNA.pdb
+C:\Users\MayXauGiaCao\Desktop\Lương Thế Anh\OFFICIAL\NNA\bin\Debug\NNA.exe.config
+C:\Users\MayXauGiaCao\Desktop\Lương Thế Anh\OFFICIAL\NNA\bin\Debug\NNA.exe
+C:\Users\MayXauGiaCao\Desktop\Lương Thế Anh\OFFICIAL\NNA\bin\Debug\NNA.pdb
+C:\Users\MayXauGiaCao\Desktop\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.csprojAssemblyReference.cache
+C:\Users\MayXauGiaCao\Desktop\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.View.MainGUI.resources
+C:\Users\MayXauGiaCao\Desktop\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.Properties.Resources.resources
+C:\Users\MayXauGiaCao\Desktop\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.View.ProgressView.resources
+C:\Users\MayXauGiaCao\Desktop\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.View.ProjectAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.View.ProjectDetail.resources
+C:\Users\MayXauGiaCao\Desktop\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.StudentAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.StudentDetail.resources
+C:\Users\MayXauGiaCao\Desktop\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.View.TeacherAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.TeacherDetail.resources
+C:\Users\MayXauGiaCao\Desktop\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.csproj.GenerateResource.cache
+C:\Users\MayXauGiaCao\Desktop\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.csproj.CoreCompileInputs.cache
+C:\Users\MayXauGiaCao\Desktop\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.exe
+C:\Users\MayXauGiaCao\Desktop\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.pdb
+C:\Users\luong\OneDrive\Máy tính\Lương Thế Anh\OFFICIAL\NNA\bin\Debug\NNA.exe.config
+C:\Users\luong\OneDrive\Máy tính\Lương Thế Anh\OFFICIAL\NNA\bin\Debug\NNA.exe
+C:\Users\luong\OneDrive\Máy tính\Lương Thế Anh\OFFICIAL\NNA\bin\Debug\NNA.pdb
+C:\Users\luong\OneDrive\Máy tính\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.csprojAssemblyReference.cache
+C:\Users\luong\OneDrive\Máy tính\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.View.MainGUI.resources
+C:\Users\luong\OneDrive\Máy tính\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.Properties.Resources.resources
+C:\Users\luong\OneDrive\Máy tính\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.View.ProgressView.resources
+C:\Users\luong\OneDrive\Máy tính\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.View.ProjectAddUpdate.resources
+C:\Users\luong\OneDrive\Máy tính\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.View.ProjectDetail.resources
+C:\Users\luong\OneDrive\Máy tính\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.StudentAddUpdate.resources
+C:\Users\luong\OneDrive\Máy tính\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.StudentDetail.resources
+C:\Users\luong\OneDrive\Máy tính\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.View.TeacherAddUpdate.resources
+C:\Users\luong\OneDrive\Máy tính\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.TeacherDetail.resources
+C:\Users\luong\OneDrive\Máy tính\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.csproj.GenerateResource.cache
+C:\Users\luong\OneDrive\Máy tính\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.csproj.CoreCompileInputs.cache
+C:\Users\luong\OneDrive\Máy tính\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.exe
+C:\Users\luong\OneDrive\Máy tính\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.pdb
+C:\Users\MayXauGiaCao\Desktop\MainVersion\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.csprojAssemblyReference.cache
+C:\Users\MayXauGiaCao\Desktop\MainVersion\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.View.MainGUI.resources
+C:\Users\MayXauGiaCao\Desktop\MainVersion\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.Properties.Resources.resources
+C:\Users\MayXauGiaCao\Desktop\MainVersion\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.View.ProgressView.resources
+C:\Users\MayXauGiaCao\Desktop\MainVersion\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.View.ProjectAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\MainVersion\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.View.ProjectDetail.resources
+C:\Users\MayXauGiaCao\Desktop\MainVersion\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.StudentAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\MainVersion\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.StudentDetail.resources
+C:\Users\MayXauGiaCao\Desktop\MainVersion\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.View.TeacherAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\MainVersion\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.TeacherDetail.resources
+C:\Users\MayXauGiaCao\Desktop\MainVersion\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.csproj.GenerateResource.cache
+C:\Users\MayXauGiaCao\Desktop\MainVersion\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.csproj.CoreCompileInputs.cache
+C:\Users\MayXauGiaCao\Desktop\MainVersion\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.exe
+C:\Users\MayXauGiaCao\Desktop\MainVersion\Lương Thế Anh\OFFICIAL\NNA\obj\Debug\NNA.pdb
+C:\Users\MayXauGiaCao\Desktop\MainVersion\Lương Thế Anh\OFFICIAL\NNA\bin\Debug\NNA.exe.config
+C:\Users\MayXauGiaCao\Desktop\MainVersion\Lương Thế Anh\OFFICIAL\NNA\bin\Debug\NNA.exe
+C:\Users\MayXauGiaCao\Desktop\MainVersion\Lương Thế Anh\OFFICIAL\NNA\bin\Debug\NNA.pdb
+C:\Users\MayXauGiaCao\Desktop\MainVersion\NNA\bin\Debug\NNA.exe.config
+C:\Users\MayXauGiaCao\Desktop\MainVersion\NNA\bin\Debug\NNA.exe
+C:\Users\MayXauGiaCao\Desktop\MainVersion\NNA\bin\Debug\NNA.pdb
+C:\Users\MayXauGiaCao\Desktop\MainVersion\NNA\obj\Debug\NNA.csprojAssemblyReference.cache
+C:\Users\MayXauGiaCao\Desktop\MainVersion\NNA\obj\Debug\NNA.View.MainGUI.resources
+C:\Users\MayXauGiaCao\Desktop\MainVersion\NNA\obj\Debug\NNA.Properties.Resources.resources
+C:\Users\MayXauGiaCao\Desktop\MainVersion\NNA\obj\Debug\NNA.View.ProgressView.resources
+C:\Users\MayXauGiaCao\Desktop\MainVersion\NNA\obj\Debug\NNA.View.ProjectAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\MainVersion\NNA\obj\Debug\NNA.View.ProjectDetail.resources
+C:\Users\MayXauGiaCao\Desktop\MainVersion\NNA\obj\Debug\NNA.StudentAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\MainVersion\NNA\obj\Debug\NNA.StudentDetail.resources
+C:\Users\MayXauGiaCao\Desktop\MainVersion\NNA\obj\Debug\NNA.View.TeacherAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\MainVersion\NNA\obj\Debug\NNA.TeacherDetail.resources
+C:\Users\MayXauGiaCao\Desktop\MainVersion\NNA\obj\Debug\NNA.csproj.GenerateResource.cache
+C:\Users\MayXauGiaCao\Desktop\MainVersion\NNA\obj\Debug\NNA.csproj.CoreCompileInputs.cache
+C:\Users\MayXauGiaCao\Desktop\MainVersion\NNA\obj\Debug\NNA.exe
+C:\Users\MayXauGiaCao\Desktop\MainVersion\NNA\obj\Debug\NNA.pdb
+C:\Users\luong\OneDrive\Máy tính\MainVersion\NNA\bin\Debug\NNA.exe.config
+C:\Users\luong\OneDrive\Máy tính\MainVersion\NNA\bin\Debug\NNA.exe
+C:\Users\luong\OneDrive\Máy tính\MainVersion\NNA\bin\Debug\NNA.pdb
+C:\Users\luong\OneDrive\Máy tính\MainVersion\NNA\obj\Debug\NNA.csprojAssemblyReference.cache
+C:\Users\luong\OneDrive\Máy tính\MainVersion\NNA\obj\Debug\NNA.View.MainGUI.resources
+C:\Users\luong\OneDrive\Máy tính\MainVersion\NNA\obj\Debug\NNA.Properties.Resources.resources
+C:\Users\luong\OneDrive\Máy tính\MainVersion\NNA\obj\Debug\NNA.View.ProgressView.resources
+C:\Users\luong\OneDrive\Máy tính\MainVersion\NNA\obj\Debug\NNA.View.ProjectAddUpdate.resources
+C:\Users\luong\OneDrive\Máy tính\MainVersion\NNA\obj\Debug\NNA.View.ProjectDetail.resources
+C:\Users\luong\OneDrive\Máy tính\MainVersion\NNA\obj\Debug\NNA.StudentAddUpdate.resources
+C:\Users\luong\OneDrive\Máy tính\MainVersion\NNA\obj\Debug\NNA.StudentDetail.resources
+C:\Users\luong\OneDrive\Máy tính\MainVersion\NNA\obj\Debug\NNA.View.TeacherAddUpdate.resources
+C:\Users\luong\OneDrive\Máy tính\MainVersion\NNA\obj\Debug\NNA.TeacherDetail.resources
+C:\Users\luong\OneDrive\Máy tính\MainVersion\NNA\obj\Debug\NNA.csproj.GenerateResource.cache
+C:\Users\luong\OneDrive\Máy tính\MainVersion\NNA\obj\Debug\NNA.csproj.CoreCompileInputs.cache
+C:\Users\luong\OneDrive\Máy tính\MainVersion\NNA\obj\Debug\NNA.exe
+C:\Users\luong\OneDrive\Máy tính\MainVersion\NNA\obj\Debug\NNA.pdb
+C:\Users\Truong Nguyen\Desktop\HK 2 Nam 2\Lap Trinh Windows\DOAN\MainVersion 10_6\MainVersion\NNA\bin\Debug\NNA.exe.config
+C:\Users\Truong Nguyen\Desktop\HK 2 Nam 2\Lap Trinh Windows\DOAN\MainVersion 10_6\MainVersion\NNA\bin\Debug\NNA.exe
+C:\Users\Truong Nguyen\Desktop\HK 2 Nam 2\Lap Trinh Windows\DOAN\MainVersion 10_6\MainVersion\NNA\bin\Debug\NNA.pdb
+C:\Users\Truong Nguyen\Desktop\HK 2 Nam 2\Lap Trinh Windows\DOAN\MainVersion 10_6\MainVersion\NNA\obj\Debug\NNA.csprojAssemblyReference.cache
+C:\Users\Truong Nguyen\Desktop\HK 2 Nam 2\Lap Trinh Windows\DOAN\MainVersion 10_6\MainVersion\NNA\obj\Debug\NNA.View.MainGUI.resources
+C:\Users\Truong Nguyen\Desktop\HK 2 Nam 2\Lap Trinh Windows\DOAN\MainVersion 10_6\MainVersion\NNA\obj\Debug\NNA.Properties.Resources.resources
+C:\Users\Truong Nguyen\Desktop\HK 2 Nam 2\Lap Trinh Windows\DOAN\MainVersion 10_6\MainVersion\NNA\obj\Debug\NNA.View.ProgressView.resources
+C:\Users\Truong Nguyen\Desktop\HK 2 Nam 2\Lap Trinh Windows\DOAN\MainVersion 10_6\MainVersion\NNA\obj\Debug\NNA.View.ProjectAddUpdate.resources
+C:\Users\Truong Nguyen\Desktop\HK 2 Nam 2\Lap Trinh Windows\DOAN\MainVersion 10_6\MainVersion\NNA\obj\Debug\NNA.View.ProjectDetail.resources
+C:\Users\Truong Nguyen\Desktop\HK 2 Nam 2\Lap Trinh Windows\DOAN\MainVersion 10_6\MainVersion\NNA\obj\Debug\NNA.StudentAddUpdate.resources
+C:\Users\Truong Nguyen\Desktop\HK 2 Nam 2\Lap Trinh Windows\DOAN\MainVersion 10_6\MainVersion\NNA\obj\Debug\NNA.StudentDetail.resources
+C:\Users\Truong Nguyen\Desktop\HK 2 Nam 2\Lap Trinh Windows\DOAN\MainVersion 10_6\MainVersion\NNA\obj\Debug\NNA.View.TeacherAddUpdate.resources
+C:\Users\Truong Nguyen\Desktop\HK 2 Nam 2\Lap Trinh Windows\DOAN\MainVersion 10_6\MainVersion\NNA\obj\Debug\NNA.TeacherDetail.resources
+C:\Users\Truong Nguyen\Desktop\HK 2 Nam 2\Lap Trinh Windows\DOAN\MainVersion 10_6\MainVersion\NNA\obj\Debug\NNA.csproj.GenerateResource.cache
+C:\Users\Truong Nguyen\Desktop\HK 2 Nam 2\Lap Trinh Windows\DOAN\MainVersion 10_6\MainVersion\NNA\obj\Debug\NNA.exe
+C:\Users\Truong Nguyen\Desktop\HK 2 Nam 2\Lap Trinh Windows\DOAN\MainVersion 10_6\MainVersion\NNA\obj\Debug\NNA.pdb
+C:\Users\MayXauGiaCao\Desktop\MainVersion20h30\MainVersion\NNA\bin\Debug\NNA.exe.config
+C:\Users\MayXauGiaCao\Desktop\MainVersion20h30\MainVersion\NNA\bin\Debug\NNA.exe
+C:\Users\MayXauGiaCao\Desktop\MainVersion20h30\MainVersion\NNA\bin\Debug\NNA.pdb
+C:\Users\MayXauGiaCao\Desktop\MainVersion20h30\MainVersion\NNA\obj\Debug\NNA.csprojAssemblyReference.cache
+C:\Users\MayXauGiaCao\Desktop\MainVersion20h30\MainVersion\NNA\obj\Debug\NNA.View.MainGUI.resources
+C:\Users\MayXauGiaCao\Desktop\MainVersion20h30\MainVersion\NNA\obj\Debug\NNA.Properties.Resources.resources
+C:\Users\MayXauGiaCao\Desktop\MainVersion20h30\MainVersion\NNA\obj\Debug\NNA.View.ProgressView.resources
+C:\Users\MayXauGiaCao\Desktop\MainVersion20h30\MainVersion\NNA\obj\Debug\NNA.View.ProjectAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\MainVersion20h30\MainVersion\NNA\obj\Debug\NNA.View.ProjectDetail.resources
+C:\Users\MayXauGiaCao\Desktop\MainVersion20h30\MainVersion\NNA\obj\Debug\NNA.StudentAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\MainVersion20h30\MainVersion\NNA\obj\Debug\NNA.StudentDetail.resources
+C:\Users\MayXauGiaCao\Desktop\MainVersion20h30\MainVersion\NNA\obj\Debug\NNA.View.TeacherAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\MainVersion20h30\MainVersion\NNA\obj\Debug\NNA.TeacherDetail.resources
+C:\Users\MayXauGiaCao\Desktop\MainVersion20h30\MainVersion\NNA\obj\Debug\NNA.csproj.GenerateResource.cache
+C:\Users\MayXauGiaCao\Desktop\MainVersion20h30\MainVersion\NNA\obj\Debug\NNA.csproj.CoreCompileInputs.cache
+C:\Users\MayXauGiaCao\Desktop\MainVersion20h30\MainVersion\NNA\obj\Debug\NNA.exe
+C:\Users\MayXauGiaCao\Desktop\MainVersion20h30\MainVersion\NNA\obj\Debug\NNA.pdb
+C:\Users\MayXauGiaCao\Desktop\Đồ Án Lập Trình Window\Đồ Án Lập Trình Window\MainVersion20h30\MainVersion\NNA\bin\Debug\NNA.exe.config
+C:\Users\MayXauGiaCao\Desktop\Đồ Án Lập Trình Window\Đồ Án Lập Trình Window\MainVersion20h30\MainVersion\NNA\bin\Debug\NNA.exe
+C:\Users\MayXauGiaCao\Desktop\Đồ Án Lập Trình Window\Đồ Án Lập Trình Window\MainVersion20h30\MainVersion\NNA\bin\Debug\NNA.pdb
+C:\Users\MayXauGiaCao\Desktop\Đồ Án Lập Trình Window\Đồ Án Lập Trình Window\MainVersion20h30\MainVersion\NNA\obj\Debug\NNA.csprojAssemblyReference.cache
+C:\Users\MayXauGiaCao\Desktop\Đồ Án Lập Trình Window\Đồ Án Lập Trình Window\MainVersion20h30\MainVersion\NNA\obj\Debug\NNA.View.MainGUI.resources
+C:\Users\MayXauGiaCao\Desktop\Đồ Án Lập Trình Window\Đồ Án Lập Trình Window\MainVersion20h30\MainVersion\NNA\obj\Debug\NNA.Properties.Resources.resources
+C:\Users\MayXauGiaCao\Desktop\Đồ Án Lập Trình Window\Đồ Án Lập Trình Window\MainVersion20h30\MainVersion\NNA\obj\Debug\NNA.View.ProgressView.resources
+C:\Users\MayXauGiaCao\Desktop\Đồ Án Lập Trình Window\Đồ Án Lập Trình Window\MainVersion20h30\MainVersion\NNA\obj\Debug\NNA.View.ProjectAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\Đồ Án Lập Trình Window\Đồ Án Lập Trình Window\MainVersion20h30\MainVersion\NNA\obj\Debug\NNA.View.ProjectDetail.resources
+C:\Users\MayXauGiaCao\Desktop\Đồ Án Lập Trình Window\Đồ Án Lập Trình Window\MainVersion20h30\MainVersion\NNA\obj\Debug\NNA.StudentAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\Đồ Án Lập Trình Window\Đồ Án Lập Trình Window\MainVersion20h30\MainVersion\NNA\obj\Debug\NNA.StudentDetail.resources
+C:\Users\MayXauGiaCao\Desktop\Đồ Án Lập Trình Window\Đồ Án Lập Trình Window\MainVersion20h30\MainVersion\NNA\obj\Debug\NNA.View.TeacherAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\Đồ Án Lập Trình Window\Đồ Án Lập Trình Window\MainVersion20h30\MainVersion\NNA\obj\Debug\NNA.TeacherDetail.resources
+C:\Users\MayXauGiaCao\Desktop\Đồ Án Lập Trình Window\Đồ Án Lập Trình Window\MainVersion20h30\MainVersion\NNA\obj\Debug\NNA.csproj.GenerateResource.cache
+C:\Users\MayXauGiaCao\Desktop\Đồ Án Lập Trình Window\Đồ Án Lập Trình Window\MainVersion20h30\MainVersion\NNA\obj\Debug\NNA.csproj.CoreCompileInputs.cache
+C:\Users\MayXauGiaCao\Desktop\Đồ Án Lập Trình Window\Đồ Án Lập Trình Window\MainVersion20h30\MainVersion\NNA\obj\Debug\NNA.exe
+C:\Users\MayXauGiaCao\Desktop\Đồ Án Lập Trình Window\Đồ Án Lập Trình Window\MainVersion20h30\MainVersion\NNA\obj\Debug\NNA.pdb
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\MainVersion\NNA\bin\Debug\NNA.exe.config
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\MainVersion\NNA\bin\Debug\NNA.exe
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\MainVersion\NNA\bin\Debug\NNA.pdb
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\MainVersion\NNA\obj\Debug\NNA.csprojAssemblyReference.cache
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\MainVersion\NNA\obj\Debug\NNA.View.MainGUI.resources
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\MainVersion\NNA\obj\Debug\NNA.Properties.Resources.resources
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\MainVersion\NNA\obj\Debug\NNA.View.ProgressView.resources
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\MainVersion\NNA\obj\Debug\NNA.View.ProjectAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\MainVersion\NNA\obj\Debug\NNA.View.ProjectDetail.resources
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\MainVersion\NNA\obj\Debug\NNA.StudentAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\MainVersion\NNA\obj\Debug\NNA.StudentDetail.resources
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\MainVersion\NNA\obj\Debug\NNA.View.TeacherAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\MainVersion\NNA\obj\Debug\NNA.TeacherDetail.resources
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\MainVersion\NNA\obj\Debug\NNA.csproj.GenerateResource.cache
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\MainVersion\NNA\obj\Debug\NNA.csproj.CoreCompileInputs.cache
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\MainVersion\NNA\obj\Debug\NNA.exe
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\MainVersion\NNA\obj\Debug\NNA.pdb
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\Code&Database\NNA\bin\Debug\NNA.exe.config
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\Code&Database\NNA\bin\Debug\NNA.exe
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\Code&Database\NNA\bin\Debug\NNA.pdb
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\Code&Database\NNA\obj\Debug\NNA.csprojAssemblyReference.cache
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\Code&Database\NNA\obj\Debug\NNA.View.MainGUI.resources
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\Code&Database\NNA\obj\Debug\NNA.Properties.Resources.resources
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\Code&Database\NNA\obj\Debug\NNA.View.ProgressView.resources
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\Code&Database\NNA\obj\Debug\NNA.View.ProjectAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\Code&Database\NNA\obj\Debug\NNA.View.ProjectDetail.resources
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\Code&Database\NNA\obj\Debug\NNA.StudentAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\Code&Database\NNA\obj\Debug\NNA.StudentDetail.resources
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\Code&Database\NNA\obj\Debug\NNA.View.TeacherAddUpdate.resources
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\Code&Database\NNA\obj\Debug\NNA.TeacherDetail.resources
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\Code&Database\NNA\obj\Debug\NNA.csproj.GenerateResource.cache
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\Code&Database\NNA\obj\Debug\NNA.csproj.CoreCompileInputs.cache
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\Code&Database\NNA\obj\Debug\NNA.exe
+C:\Users\MayXauGiaCao\Desktop\Project Cuối Kỳ\Code&Database\NNA\obj\Debug\NNA.pdb
